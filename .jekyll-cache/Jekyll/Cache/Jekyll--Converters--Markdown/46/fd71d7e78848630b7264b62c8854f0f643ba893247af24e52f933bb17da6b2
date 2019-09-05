@@ -1,0 +1,24 @@
+I"_<!-- Main -->
+<div id="main" class="alt">
+
+    <!-- One -->
+    <section id="one">
+        <div class="inner">
+            <header class="major">
+                <h1>Projects</h1>
+            </header>
+            <article>
+                    <span class="image">
+                      <img src="assets/images/pic01.jpg" alt="" />
+                    </span>
+                    <header class="major">
+                      <h3><a href="/2019/09/04/Welcome-to-my-site.html" class="link">Welcome to my site</a></h3>
+                      <p>Sep 4, 2019 11:00 pm</p>
+                      <p><p>Hi, if you didn’t know already, my name is John Nutter. I’m a back end web developer and linux sysadmin. I have a passion working with Ruby on Rails, and seeking any opportunity I can to write code using it. In this first post, I’m going to go over some details on how I created this site, and the tools that I used. It’s not at all an exhaustive post, but just something I put together to get the ball rolling.</p>
+</p>
+                    </header>
+                  </article>
+        </div>
+    </section>
+</div>
+:ET

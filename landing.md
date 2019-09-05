@@ -4,6 +4,7 @@ layout: landing
 description: Past projects
 # image: "assets/images/pic03.jpg"
 nav-menu: true
+show_tile: false
 ---
 
 
