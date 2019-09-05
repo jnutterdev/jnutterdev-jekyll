@@ -3,7 +3,7 @@ title: Hi, I'm John Nutter
 subtitle: Back end developer & Sysadmin
 email: hello@jnutterdev.com
 description: Back end developer and sysadmin with a passion for Ruby on Rails
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: https://jnutterdev.com # the base hostname & protocol for your site
 author: John Nutter
 city: Decatur
