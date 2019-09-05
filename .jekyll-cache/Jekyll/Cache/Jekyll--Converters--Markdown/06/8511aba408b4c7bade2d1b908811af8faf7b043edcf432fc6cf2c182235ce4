@@ -1,13 +1,4 @@
----
-title: Previous Projects
-layout: landing
-description: Past projects
-# image: "assets/images/pic03.jpg"
-nav-menu: true
----
-
-
-<!-- Main -->
+I"û<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -86,3 +77,4 @@ nav-menu: true
 </section>
 
 </div>
+:ET

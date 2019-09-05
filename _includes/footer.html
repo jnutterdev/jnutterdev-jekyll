@@ -1,5 +1,5 @@
 <!-- Contact -->
-<section id="contact">
+<!-- <section id="contact">
 	<div class="inner">
 		<section>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
@@ -61,12 +61,15 @@
 			</section>
 		</section>
 	</div>
-</section>
+</section> -->
 
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
 			<ul class="icons">
+				{% if site.email_addy %}
+				<li><a href="mailto:{{ site.email_addy }}" class="icon alt fa-envelope" target="_blank"><span class="label">Email</span></a></li>
+				{% endif %}
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %}
@@ -99,7 +102,8 @@
 				{% endif %}
 			</ul>
 			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+				<li>&copy; 2018 - {{ 'now' | date: "%Y" }} jnutterdev.com</li>
+				<li>Content & Design: <a href="mailto:hello@jnutterdev.com">John Nutter</a></li>
 				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
 				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
 

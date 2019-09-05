@@ -78,3 +78,7 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+
+	a.icon.alt:hover::before {
+		background-color: #42E1FF;
+	}
