@@ -1,0 +1,2 @@
+I"P<p>While in the process of updating the new website, I came across an issue building the links for my website. To rewind a bit, I previously used Jekyll on version 3.3.0 or even earlier. Sometime between now and then, there was a new update that rolled out that started using Bundler to bundle the gem dependencies for the project.</p>
+:ET
