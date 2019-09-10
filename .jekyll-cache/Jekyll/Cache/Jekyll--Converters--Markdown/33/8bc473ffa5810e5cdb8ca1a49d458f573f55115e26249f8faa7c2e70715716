@@ -1,4 +1,5 @@
-I"4<!-- Main -->
+I"6
+<!-- Main -->
 <div id="main" class="alt">
 
     <!-- One -->
@@ -8,6 +9,16 @@
                 <h1>Projects</h1>
             </header>
             <article>
+                    <span class="image">
+                      <img src="assets/images/pic03.jpg" alt="" />
+                    </span>
+                    <header class="major">
+                      <h3><a href="/2019/09/10/ghost-pages.html" class="link">Ghost pages</a></h3>
+                      <p>Sep 10, 2019 12:13 pm</p>
+                      <p><p>The updates I’m going to be sharing lately will mostly be for the projects I’m working on. Which in this case, will just be the current website and also the <a href="https://www.nutterhomedesigns.com">Nutter Home Designs</a> website. Sometime in the near future, I’m going to be working on some Ruby on rails apps so I’ll share those as I’m working through them.</p>
+
+</p>
+                    </header>
                     <span class="image">
                       <img src="assets/images/pic02.jpg" alt="" />
                     </span>
