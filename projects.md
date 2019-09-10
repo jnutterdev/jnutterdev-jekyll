@@ -4,7 +4,6 @@ title: Projects
 description: "What I am working on"
 nav-menu: true
 show_tile: true
-# image: "assets/images/pic14.png"
 ---
 <!-- Main -->
 <div id="main" class="alt">

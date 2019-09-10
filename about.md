@@ -2,8 +2,8 @@
 layout: post
 title: About Me
 description: All about what I do and who I am
-# image: "assets/images/pic14.png"
 nav-menu: true
+show_tile: true
 ---
 
 Hello, my name is John Nutter. I'm a customer support technician that has been working for an Atlanta based software company for the last six years. I have a background in web development, with experience using PHP, Python, and Ruby. My passion is using Ruby and Ruby on Rails.
