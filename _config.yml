@@ -9,7 +9,7 @@ author: John Nutter
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 9
 limit_posts: 5
 
 # social settings

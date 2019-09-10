@@ -2,8 +2,8 @@
 layout: page
 title: Projects
 description: "What I am working on"
-nav-menu: false
-show_tile: false
+nav-menu: true
+show_tile: true
 # image: "assets/images/pic14.png"
 ---
 <!-- Main -->
