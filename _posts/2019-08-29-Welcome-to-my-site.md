@@ -7,7 +7,7 @@ image: assets/images/pic01.jpg
 excerpt_separator: <!--more-->
 ---
 
-Hi, if you didn't know already, my name is John Nutter. I'm a back end web developer and linux sysadmin. I have a passion working with Ruby on Rails, and seeking any opportunity I can to write code using it. In this first post, I'm going to go over some details on how I created this site, and the tools that I used. It's not at all an exhaustive post, but just something I put together to get the ball rolling. 
+Hi, if you didn't know already, my name is John Nutter. I'm a back end web developer and linux sysadmin. I have a passion working with Ruby on Rails and Flask. I'm seeking any opportunity I can to write code using it. In this first post, I'm going to go over some details on how I created this site, and the tools that I used. It's not at all an exhaustive post, but just something I put together to get the ball rolling. 
 <!--more-->
 
 For starters, the website itself is built with [Jekyll](https://jekyllrb.com/). I'm using version 4.0.0 at the time of this writing, along with Ruby version 2.6.3, and a few other gems. The template I'm using is a free Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/) that I came across. I've made some edits to it, mainly removing sections that I don't think I'll be using. So hopefully, everything make sense.   

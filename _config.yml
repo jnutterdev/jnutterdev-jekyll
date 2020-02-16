@@ -1,8 +1,8 @@
 # site settings
 title: Hi, I'm John Nutter
-subtitle: Back end developer & Sysadmin
+subtitle: Backend developer & Sysadmin
 email: hello@jnutterdev.com
-description: Back end developer and sysadmin with a passion for Ruby on Rails
+description: Back end developer and sysadmin with a passion for web technologies
 url: "https://www.jnutterdev.com"
 baseurl: ""
 author: John Nutter
