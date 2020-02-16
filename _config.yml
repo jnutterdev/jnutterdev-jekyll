@@ -30,3 +30,9 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+# exclude files
+exclude:
+  - jnutterdev-blog
+
+safe: true
