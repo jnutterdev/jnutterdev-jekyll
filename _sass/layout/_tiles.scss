@@ -1,0 +1,20 @@
+.card-layouts {
+    display: grid;
+    grid-column-gap: 15px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    margin: 20px;
+}
+
+.card-container {
+    display: inline-block;
+    width: 13em;
+    @include breakpoint(xlarge) {
+        li {
+            padding: 0 0.75em 0 0;
+        }
+    }
+}
+
+.date-style {
+    margin-bottom: 20px !important;
+}

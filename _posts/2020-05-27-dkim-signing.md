@@ -3,8 +3,8 @@ layout: post
 title: DKIM signing
 date: 2020-05-27 19:28:00 -05:00
 description: ""
-image: assets/images/pic20.jpg
-published: false
+image: assets/images/pic03.jpg
+published: True
 excerpt_separator: <!--more-->
 ---
 
@@ -14,7 +14,7 @@ DKIM
 SPF
 DMARC
 
-Recently I went down a rabbit hole that lead me to learning more about SPF, DKIM, and DMARC. While there are a lot of resources that cover the benefit of setting these up, there's still some infomration that is not quite as readily available. Here's what I learned on my quest. 
+Recently I went down a rabbit hole that lead me to learning more about SPF, DKIM, and DMARC. While there are a lot of resources that cover the benefit of setting these up, there's still some infomration that is not quite as readily available. Here's what I learned on my quest. <!--more-->
 
 It all started out when I was looking through my inbox at emails, and wondered how some companies could display an image next to their from name. After doing a bit of searching around, I stumbled across an article on [BIMI](https://www.dmarcanalyzer.com/how-to-implement-bimi-record/), or Brand Indicators for Message Identification. To set this up, the article mentioned that the sending domain must have SPF, DKIM, and DMARC enabled first. I work in technical support for an email delviery company, so I have some famiiliariaty with SPF/DKIm already. One of my personal addresses I use outside of work already has DMARC setup. I really wanted to test out sending from my server,though, rather than work tools. 
 

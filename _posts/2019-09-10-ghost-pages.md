@@ -7,8 +7,7 @@ image: assets/images/pic03.jpg
 excerpt_separator: <!--more-->
 ---
 
-The updates I'm going to be sharing lately will mostly be for the projects I'm working on. Which in this case, will just be the current website and also the [Nutter Home Designs](https://www.nutterhomedesigns.com) website. Sometime in the near future, I'm going to be working on some Ruby on rails apps so I'll share those as I'm working through them. 
- <!--more-->
+The updates I'm going to be sharing lately will mostly be for the projects I'm working on. Which in this case, will just be the current website and also the [Nutter Home Designs](https://www.nutterhomedesigns.com) website. Sometime in the near future, I'm going to be working on<!--more--> some Ruby on rails apps so I'll share those as I'm working through them. 
 
 When I first setup this website, I was given a few pages to start off with, such as an `index.md` page, an `elements.md` page, and a `landing.md` page. The `elements.md` page is just a resource to tell you what styles, fonts, and colors were used on the website. The `landing.md` page is there as a reference to see how the pages are layed out--I think.
 
