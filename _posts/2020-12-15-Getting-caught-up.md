@@ -1,11 +1,11 @@
 ---
 layout: post
-title: DKIM signing
-date: 2020-05-27 19:28:00 -05:00
+title: Getting blog up to date
+date: 2020-05-27 15:25:00 -05:00
 description: ""
 image: assets/images/pic03.jpg
-published: true
+published: false
 excerpt_separator: <!--more-->
 ---
 
-Fixed up the Projects page, added a grid column for each post. 
+Getting blog up to date, and fixed up projects page. Can't wait to show you more. 
