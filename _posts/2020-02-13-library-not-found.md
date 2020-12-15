@@ -3,12 +3,12 @@ layout: post
 title: Library not found
 date: 2020-02-13 21:59:00 -05:00
 description: "It's been awhile since I've worked on any projects lately, so I decided that if I start writing about a project it will get me back into the swing of things."
-image: assets/images/pic20.jpg
+image: assets/images/pic03.jpg
 excerpt_separator: <!--more-->
 ---
 
-It's been awhile since I've worked on any projects lately, so I decided that if I start writing about a project it will get me back into the swing of things. I didn't have the repo cloned or this site, so the first thing I did was pull it down from github. 
-<!--more-->
+It's been awhile since I've worked on any projects lately, so I decided that if I start writing about a project it will get me back into the swing of things. I didn't have the repo cloned or this site, so the first thing I did was pull it down from github.                      <!--more-->
+
 
 Next, I tried to fire up jekyll. I get an error, "library not found for class Digest::SHA2 -- digest/sha2 (LoadError)". Crap. What is that all about? Nothing has really changed since my last post, what gives? 
 

@@ -24,10 +24,10 @@ show_tile: true
                         <span class="image">
                             <img src="{{ post.image }}" alt="" />
                         </span>
-                    <header class="major">
+                    <header class="major card-body">
                         <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
-                        <p>{{ post.date | date: "%b %-d, %Y %-I:%M %P" }}</p>
-                        <p>{{ post.excerpt }}</p>
+                        <p class="date-style">{{ post.date | date: "%b %-d, %Y %-I:%M %P" }}</p>
+                        <p class="card-copy">{{ post.excerpt }}</p>
                     </header>
                  </div>
                  {% endfor %}

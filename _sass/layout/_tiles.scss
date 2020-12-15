@@ -5,13 +5,16 @@
     margin: 20px;
 }
 
-header {
-    p {
-        white-space: normal;
-        overflow: hidden;
+.card-container {
+    display: inline-block;
+    width: 13em;
+    @include breakpoint(xlarge) {
+        li {
+            padding: 0 0.75em 0 0;
+        }
     }
 }
 
-.card-container {
-    display: inline-block;
+.date-style {
+    margin-bottom: 20px !important;
 }
