@@ -1,8 +1,14 @@
---- layout: page title: Projects description: "What I am working on" nav-menu: true show_tile: true ---
+--- 
+layout: page 
+title: Projects 
+description: "What I am working on" 
+nav-menu: true 
+show_tile: true 
+---
 <!-- Main -->
 <div id="main" class="alt">
     <div class="card-layouts">
-        <div class="card">Hi</div>
+       
     </div>
     <!-- One -->
     <section id="one">
