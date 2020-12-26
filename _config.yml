@@ -1,11 +1,14 @@
 # site settings
 title: Hi, I'm John Nutter
-subtitle: Full stack developer & Sysadmin
+subtitle: Full stack developer
 email: hello@jnutterdev.com
-description: I'm a full stack developer and sysadmin with a passion for web technologies
+description: I'm a full stack developer with a passion for web technologies
 url: "https://www.jnutterdev.com"
 baseurl: ""
 author: John Nutter
+
+# development settings
+host: 0.0.0.0
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,10 +23,10 @@ github_url: "&#104;&#101;&#108;&#108;&#111;&#064;&#106;&#110;&#117;&#116;&#116;&
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
-linkedin_url: https://www.linkedin.com/in/withonlyamap/
+linkedin_url: https://www.linkedin.com/in/jnutterdev
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/terribledevice
+twitter_url: https://twitter.com/jnutterdev
 
 # build settings
 markdown: kramdown
