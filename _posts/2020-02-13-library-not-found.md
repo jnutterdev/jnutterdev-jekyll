@@ -7,13 +7,13 @@ image: assets/images/pic03.jpg
 excerpt_separator: <!--more-->
 ---
 
-It's been awhile since I've worked on any projects lately, so I decided that if I start writing about a project it will get me back into the swing of things. I didn't have the repo cloned or this site, so the first thing I did was pull it down from github.                      <!--more-->
+It's been a while since I've worked on any projects lately, so I decided that it will get me back into the swing of things if I start writing about a project. I didn't have the repo cloned or this site, so the first thing I did was pull it down from GitHub.                      <!--more-->
 
 
-Next, I tried to fire up jekyll. I get an error, "library not found for class Digest::SHA2 -- digest/sha2 (LoadError)". Crap. What is that all about? Nothing has really changed since my last post, what gives? 
+Next, I tried to fire up [Jekyll](https://jekyllrb.com/). I get an error, "library not found for class Digest::SHA2 -- digest/sha2 (LoadError)". Crap. What is that all about? Nothing has changed since my last post; what gives? 
 
-I searched around for a little while, but stack overflow was letting me down. Some folks were saying to try this thing or edit that module. A lot of things that didn't really seem relevant to my situation. Just to see if it may have been specific to my versions of ruby, I tried using an older version with rbenv. No luck. I get a host of other errors. 
+I searched around for a little while, but stack overflow was letting me down. Some folks were saying to try this thing or edit that module—many things that didn't seem relevant to my situation. To see if it may have been specific to my ruby versions, I tried using an older version with [rbenv](https://github.com/rbenv/rbenv). No luck. I get a host of other errors. 
 
-Finally, I did the only sensible thing I can think of. rbenv uninstall ruby 2.5.1. Afterwards, I re-installed jekyll and bundler. Updated my gems. Ran bundle install. Lo and behold, it works! I was so relieved. 
+Finally, I did the only sensible thing I can think of. rbenv uninstall ruby 2.5.1. Afterward, I re-installed Jekyll and bundler. I updated my gems. Ran bundle install. It works! I was so relieved. 
 
-Now that I have a working jekyll setup, expect more posts to come in the near future. I'm going to be looking into a few different projects, either with ruby on rails or flask. Stay tuned. 
+Now that I have a working Jekyll setup expect more posts to come soon. I will be looking into a few different projects, either with ruby on rails or flask. Stay tuned. 
