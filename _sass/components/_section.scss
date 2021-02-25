@@ -21,6 +21,7 @@ header {
         width: max-content;
         max-width: 100%;
         margin-bottom: _size(element-margin);
+        padding: 16px;
         > :first-child {
             margin-bottom: 0;
             width: calc(100% + 0.5em);
