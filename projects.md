@@ -22,7 +22,7 @@ show_tile: true
                 {% for post in site.posts %}
                     <div class="card-container">
                         <span class="image">
-                            <img src="{{ post.image }}" alt="" />
+                            <a href="{{ post.url  | relative_url }}" class="link"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
                         </span>
                     <header class="major card-body">
                         <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
