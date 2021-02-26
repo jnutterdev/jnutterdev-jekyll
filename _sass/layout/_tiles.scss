@@ -1,11 +1,18 @@
 .card-layouts {
-    display: grid;
-    grid-column-gap: 15px;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 100px;
 }
 
 .card-container {
-    display: inline-block;
+    flex: 1;
+    width: 33%;
+    margin: 30px 10px;
+    background: #15272d;
+    align-items: stretch;
 }
 
 .date-style {
