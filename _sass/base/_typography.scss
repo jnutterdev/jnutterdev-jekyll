@@ -41,6 +41,10 @@ a {
     }
 }
 
+a.icon.alt:hover::before {
+    background-color: #A88808;
+}
+
 strong,
 b {
     color: _palette(fg-bold);

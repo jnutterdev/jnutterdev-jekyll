@@ -3,11 +3,11 @@ layout: post
 title: Quick update
 date: 2019-09-05 19:41:00 -05:00
 description: The circle of development life
-image: assets/images/pic03.jpg
+image: assets/images/01.jpg
 excerpt_separator: <!--more-->
 ---
 
-While updating the new website, I came across an issue building the links for my website. To rewind a bit, I previously used Jekyll on version 3.3.0 or even earlier. Sometime between now and then, a new update rolled out that started using Bundler<!--more--> to bundle the gem dependencies for the project. 
+While updating the new website, I came across an issue building the links for my website. To rewind a bit, I previously used Jekyll on version 3.3.0 or even earlier.<!--more--> Sometime between now and then, a new update rolled out that started using Bundler to bundle the gem dependencies for the project. 
 
 
 I read through the documentation and noticed that this would build a local development environment when using the build command. This part I understood somewhat. But I didn't realize what that meant exactly. When I started building my site links, I notice that any URLs that I had set a variable on with `absolute_url` would get written to the site as `localhost:4000`. I found this strange because I was using `bundle exec jekyll serve` each time, and it gave me `127.0.0.1:4000` as the server where my site is hosted. While it is technically the same as `localhost:4000`, I could not for the life of me figure out why and where it was getting rendered as localhost. 
