@@ -13,7 +13,8 @@ host: 0.0.0.0
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 9
-limit_posts: 5
+limit_posts: 6
+paginate_path: "/blog/page:num/"
 
 # social settings
 email_addy: hello@jnutterdev.com
@@ -39,3 +40,7 @@ exclude:
   - jnutterdev-blog
 
 safe: true
+
+plugin:
+  - jekyll-sitemap
+  - jekyll-feed

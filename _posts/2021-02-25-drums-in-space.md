@@ -3,14 +3,14 @@ layout: post
 title: Drums In Space
 date: 2021-02-25 15:34:00 -05:00
 description: ""
-image: assets/images/pic03.jpg
+image: assets/images/01.jpg
 published: true
 excerpt_separator: <!--more-->
 ---
 
-This blog post will be a part of a series of posts giving some background on a few projects that I've worked on during my courses at [DigitalCrafts](https://www.digitalcrafts.com/).
+This blog post will be a part of a series of posts giving some background on a few projects that I've worked on during my courses at [DigitalCrafts](https://www.digitalcrafts.com/).<!--more-->
 
-One of our first projects in the course was a group project where we used <!--more-->HTML, CSS, [Bootstrap](https://getbootstrap.com/), [p5 library](https://p5js.org/libraries/), [Tone.js](https://tonejs.github.io/), and vanilla JavaScript to create a functional website. I was in a group with two other folks, and since we all enjoyed music, we decided to create an interactive drum machine with a space theme. What we created is called [Drums in space](https://github.com/jnutterdev/drums-in-space). 
+One of our first projects in the course was a group project where we used HTML, CSS, [Bootstrap](https://getbootstrap.com/), [p5 library](https://p5js.org/libraries/), [Tone.js](https://tonejs.github.io/), and vanilla JavaScript to create a functional website. I was in a group with two other folks, and since we all enjoyed music, we decided to create an interactive drum machine with a space theme. What we created is called [Drums in space](https://github.com/jnutterdev/drums-in-space). 
 
 We divided up responsibilities creating different parts of the website. One person handled the HTML/CSS and integrated a third-party API to pull in space quotes. Another person worked on some JavaScript to create a sound visualizer and the planets, and I was in charge of putting together the drum machine and sample player. 
 
