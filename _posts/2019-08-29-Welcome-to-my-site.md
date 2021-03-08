@@ -3,7 +3,7 @@ layout: post
 title: Welcome to my site
 date: 2019-09-04 22:00:00 -05:00
 description: First ever post on my new site
-image: assets/images/01.jpg
+image: 
 excerpt_separator: <!--more-->
 ---
 

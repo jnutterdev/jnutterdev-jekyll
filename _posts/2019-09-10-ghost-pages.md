@@ -3,7 +3,7 @@ layout: post
 title: Ghost pages
 date: 2019-09-10 11:13:00 -05:00
 description: "The updates I'm going to be sharing lately will mostly be for the projects I'm working on."
-image: assets/images/01.jpg
+image: 
 excerpt_separator: <!--more-->
 ---
 

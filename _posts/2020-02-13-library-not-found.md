@@ -3,7 +3,7 @@ layout: post
 title: Library not found
 date: 2020-02-13 21:59:00 -05:00
 description: "It's been awhile since I've worked on any projects lately, so I decided that if I start writing about a project it will get me back into the swing of things."
-image: assets/images/01.jpg
+image: 
 excerpt_separator: <!--more-->
 ---
 
