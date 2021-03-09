@@ -8,9 +8,7 @@ published: true
 excerpt_separator: <!--more-->
 ---
 
-This blog post will be a part of a series of posts giving some background on a few projects that I've worked on during my courses at [DigitalCrafts](https://www.digitalcrafts.com/).<!--more-->
-
-One of our first projects in the course was a group project where we used HTML, CSS, [Bootstrap](https://getbootstrap.com/), [p5 library](https://p5js.org/libraries/), [Tone.js](https://tonejs.github.io/), and vanilla JavaScript to create a functional website. I was in a group with two other folks, and since we all enjoyed music, we decided to create an interactive drum machine with a space theme. What we created is called [Drums in space](https://github.com/jnutterdev/drums-in-space). 
+One of our first projects in the course was a group project where we used HTML, CSS, [Bootstrap](https://getbootstrap.com/), [p5 library](https://p5js.org/libraries/), [Tone.js](https://tonejs.github.io/), and vanilla JavaScript to create a functional website. I was in a group with two other folks, and since we all enjoyed music, we decided to create an<!--more--> interactive drum machine with a space theme. What we created is called [Drums in space](https://github.com/jnutterdev/drums-in-space).
 
 We divided up responsibilities creating different parts of the website. One person handled the HTML/CSS and integrated a third-party API to pull in space quotes. Another person worked on some JavaScript to create a sound visualizer and the planets, and I was in charge of putting together the drum machine and sample player. 
 
@@ -19,3 +17,5 @@ For the drum sample on the main page, this was created with some simple javascri
 To create the drum machine, I searched around a bit more to find inspiration. This is when I stumbled on Tone.js and decided to use that library to play the sounds. For the player portion, I used an HTML form for the main structure. Then I used checkbox inputs as the drum pattern to play the sounds. I used some simple javascript to loop through the inputs and play the sound using the Tone.js library.
 
 All in all, this was a pretty fun project to get my feet wet, creating something interactive in the browser and working as a group—two things I had yet to do in learning to code. In the future, I'm going to try and use Tone.js a bit more. I want to create a synthesizer, and this library is perfect. 
+
+> This blog post is part of a series of posts giving some background on a few projects that I've worked on during my courses at [DigitalCrafts](https://www.digitalcrafts.com/).
