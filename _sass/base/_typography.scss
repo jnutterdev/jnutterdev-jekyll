@@ -103,6 +103,12 @@ h6 {
 }
 
 @include breakpoint(small) {
+    h1,
+    h2,
+    h3,
+    body {
+        font-family: _font(family);
+    }
     h1 {
         font-size: 2em;
     }
