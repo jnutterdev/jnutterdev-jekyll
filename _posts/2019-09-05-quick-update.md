@@ -3,7 +3,7 @@ layout: post
 title: Quick update
 date: 2019-09-05 19:41:00 -05:00
 description: The circle of development life
-image: assets/images/01.jpg
+image: 
 excerpt_separator: <!--more-->
 ---
 

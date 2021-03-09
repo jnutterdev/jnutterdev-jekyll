@@ -3,7 +3,7 @@ layout: post
 title: Drums In Space
 date: 2021-02-25 15:34:00 -05:00
 description: ""
-image: assets/images/01.jpg
+image: 
 published: true
 excerpt_separator: <!--more-->
 ---
