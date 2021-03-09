@@ -15,6 +15,12 @@
     align-items: stretch;
 }
 
+@include breakpoint(small) {
+    .card-container {
+        width: 100%;
+    }
+}
+
 .date-style {
     margin-bottom: 20px !important;
 }
