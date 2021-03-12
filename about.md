@@ -6,13 +6,15 @@ nav-menu: true
 show_tile: true
 ---
 
-Hi, I'm John Nutter. I’m a customer support technician that has been working for an Atlanta based software company for the last seven years. I have a passion for web development, with some familiarity of PHP, Python, and Ruby.
+<div class="headshot">
+    <img src="../../assets/images/johnhead.jpg" alt="John Nutter headshot" />
+</div>
 
-My goal is to find a position as a full stack developer. I will also incorporate my understanding of programming languages, Linux systems, and my love of problem-solving and troubleshooting.
+Hi, I'm John Nutter. I'm a full-stack developer with a background in technical and customer support. I enjoy working with a wide range of web technologies, but my most recent stack has been Node.js, Express.js, React.js, and PostgreSQL. I also enjoy working with Python and Django to create RESTful APIs and an affinity for Unix-based systems.
 
-In my free time, I’m spending time with my wife and son, music production with [Bitwig](https://www.bitwig.com/), or graphic design with [Affinity Designer](https://affinity.serif.com/en-gb/designer/). I’ve released a few albums over the years, but mostly as a hobby.
+For my latest resume, click [here](../../assets/images/JohnNutterResumeJan2021.pdf)
 
-I also really like any sci-fi, reading comic books, listening to podcasts, or catching up on the latest industry news.
+In my free time, I'm spending time with my wife and son, producing music with [Bitwig](https://www.bitwig.com/), or graphic design with [Affinity Designer](https://affinity.serif.com/en-gb/designer/). I also really like sci-fi, comic books, listening to podcasts, and catching up on the latest industry news.
 
 ### Websites:
 

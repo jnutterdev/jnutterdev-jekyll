@@ -45,3 +45,24 @@ body {
         }
     }
 }
+
+.headshot {
+    width: 20%;
+    margin: 0 auto;
+    padding-bottom: 32px;
+    img {
+        width: 200px;
+        // border-radius: 50%;
+        // border-top-left-radius: 70% 60%;
+        // border-bottom-right-radius: 70% 60%;
+        // -moz-border-top-left-radius: 70% 50%;
+        // -moz-border-bottom-right-radius: 70% 50%;
+        -webkit-border-radius: 90px;
+        -webkit-border-top-right-radius: 1px;
+        -webkit-border-bottom-left-radius: 1px;
+        -moz-border-radius: 90px;
+        -moz-border-radius-topright: 1px;
+        -moz-border-radius-bottomleft: 1px;
+        border-radius: 50%;
+    }
+}
