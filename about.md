@@ -7,7 +7,7 @@ show_tile: true
 ---
 
 <div class="headshot">
-    <img src="{{ site.url }}/assets/images/johnhead.jpg" alt="John Nutter headshot" />
+    <img src="{{ site.url }}/assets/images/johnhead.jpg" alt="John Nutter profile picture" />
 </div>
 
 Hi, I'm John Nutter. I'm a full-stack developer with a background in technical and customer support. I enjoy working with a wide range of web technologies, but my most recent stack has been Node.js, Express.js, React.js, and PostgreSQL. I also enjoy working with Python and Django to create RESTful APIs and an affinity for Unix-based systems.
