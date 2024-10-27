@@ -27,7 +27,7 @@ instagram_url:
 linkedin_url: https://www.linkedin.com/in/jnutterdev
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/jnutterdev
+mastodon_url: https://mastodon.social/@jnutterdev
 
 # build settings
 markdown: kramdown
